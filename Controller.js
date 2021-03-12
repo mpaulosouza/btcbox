@@ -1,6 +1,7 @@
 const express=require('express');
 const cors=require('cors');
 const bodyParser=require('body-parser');
+const models=require('./models');
 const {Expo} = require('expo-server-sdk');
 const exphbs  = require('express-handlebars');
 
