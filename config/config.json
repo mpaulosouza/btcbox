@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "btcbox",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b3f3ced54aa66d",
+    "password": "48ffd7f3",
+    "database": "heroku_449f35a188ebe81",
+    "host": "us-cdbr-east-03.cleardb.com",
+    "dialect": "mysql"
+  },
+  "urlRoot": "https://btcapp-aplication.herokuapp.com/"
+}
